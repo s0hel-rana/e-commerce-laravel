@@ -1,0 +1,1 @@
+<button {{ $attributes->merge(['class' =>'btn btn-dark pull-right']) }}>Add New</button>
